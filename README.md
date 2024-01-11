@@ -4,6 +4,8 @@
 
 **NIM  :** 312110467
 
+**Kelas  :** TI 21 A3
+
 ## Deskripsi
 Aplikasi ini bisa untuk mengelola data barang. Aplikasi ini dibuat menggunakan Lazarus dan Zeos Access.
 
