@@ -16,7 +16,7 @@ Aplikasi ini menggunakan komponen-komponen Lazarus untuk menampilkan antarmuka p
 * `TForm`: Form utama aplikasi
 * `TEdit`: Komponen untuk memasukkan dan menampilkan teks
 * `TButton`: Komponen untuk menampilkan tombol
-* `TComboBox`: Komponen untuk menampilkan daftar pilihan
+
 
 ## Kesimpulan
 
