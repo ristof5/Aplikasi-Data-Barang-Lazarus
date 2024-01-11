@@ -22,7 +22,7 @@ Aplikasi ini menggunakan komponen-komponen Lazarus untuk menampilkan antarmuka p
 
 Aplikasi ini bisa digunakan untuk mengelola data barang. Aplikasi ini dapat dikembangkan lebih lanjut dengan menambahkan fitur-fitur lain.
 
-## Link Vidio Demo
+## Link Video Demo
 ini dia video demo aplikasi : https://youtu.be/izpiHNRITU8?si=HCSKULZjfnSfA4XJ
 
 Terima kasih
