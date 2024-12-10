@@ -1,9 +1,5 @@
 # Aplikasi Data Barang Menggunakan Lazarus dan Zeos Access
 
-**Nama:** Sidik Riffani
-
-**NIM  :** 312110467
-
 **Kelas  :** TI 21 A3
 
 ## Deskripsi
